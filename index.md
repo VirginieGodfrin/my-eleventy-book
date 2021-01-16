@@ -1,8 +1,12 @@
+---
+layout: main
+---
+
 ## hello World
 
 This is my first eleventy book.
 
-the list :
+The list :
 * Cat
 * Dog
 * Turtle
