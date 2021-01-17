@@ -1,7 +1,8 @@
 ---
 layout: main
+title: Cats
 ---
 
 ## Cats
 
-Hello Cats !
+Cats are the best, aren't they?
