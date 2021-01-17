@@ -13,3 +13,13 @@ Welcome to our home page. Here's our press releases:
 	{% endfor %}
 </ul>
 
+
+Here's a list of cat breeds:
+
+<ul>
+	{% for breed in breeds %}
+		<li>{{ breed.name }} - {{ breed.description }}</li>
+	{% endfor %}
+</ul>
+
+You can contact me at {{ site.contactAddress }}
